@@ -1,1 +1,3 @@
 # Zeon
+
+Static Netlify site.
